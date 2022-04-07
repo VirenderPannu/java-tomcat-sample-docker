@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
+<h2>Hello Virender! Welcome to Jenkins Code Pipeline with Docker.</h2>
 </body>
 </html>
